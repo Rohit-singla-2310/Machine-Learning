@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Gaurav
+@author: Rohit Singla
 """
 #Import Libraries
 import numpy as np
